@@ -1,5 +1,5 @@
 # Advanced-Machine-Learning
-Assignments for the Advanced Machine Learning course as part of our MSBA'22 at UT
+Assignments for the Advanced Machine Learning course as part of our MSBA'22 program at UT
 
 Assignment 1:  
   1. MLOps
